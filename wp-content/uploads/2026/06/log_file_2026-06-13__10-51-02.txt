@@ -1,0 +1,66 @@
+
+---Downloaded files---
+The import files for: Home One were successfully downloaded!
+Initial max execution time = 36000
+Files info:
+Site URL = http://unipix.test
+Data file = C:\laragon\www\unipix/wp-content/themes/unipix/inc/demo-data/demo.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+unipix_option -> C:\laragon\www\unipix/wp-content/themes/unipix/inc/demo-data/unipix-options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing Redux settings---
+Redux settings import for: unipix_option finished successfully!
+
+---ocdi/after_import---
+
